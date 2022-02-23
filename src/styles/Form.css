@@ -1,0 +1,17 @@
+form {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+input, button {
+  margin: 5px;
+  width: 30%;
+  border: 2px solid black;
+  font-size: 18px;
+}
+
+.submit-button {
+  width: 10%;
+  text-align: center;
+}
